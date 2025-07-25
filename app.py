@@ -3,7 +3,7 @@ st.set_page_config(layout="wide")
 import google.generativeai as genai
 import re
 import json
-from streamlit_lottie import st_lottie
+
 
 # Custom CSS for hospital theme, input visibility, and responsive design
 st.markdown(
