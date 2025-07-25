@@ -7,6 +7,19 @@ This app allows users to input their health data and receive an AI-powered cardi
 - Sends data to Gemini API for risk assessment (no local calculation)
 - Displays results and recommendations
 
+## Demo
+
+Below are some screenshots of the app in action:
+
+### Home Page
+![Home Page](Demo1.png)
+
+### User With Risk
+![User With Risk](Demo3.png)
+
+### User Without Risk
+![User Without Risk](Demo2.png)
+
 ## Setup
 
 1. **Clone the repository**
