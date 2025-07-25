@@ -2,6 +2,10 @@
 
 This app allows users to input their health data and receive an AI-powered cardiovascular risk assessment using Google's Gemini API.
 
+## Live Demo
+
+[Try the app live here!](https://cardiovascular-health-assessment-dpifmxej864kzqcn5tkrhx.streamlit.app/)
+
 ## Features
 - Collects user health data via a Streamlit web form
 - Sends data to Gemini API for risk assessment (no local calculation)
